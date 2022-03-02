@@ -1,0 +1,11 @@
+/node_modules
+/dist
+/dist-ssr
+__tmp__
+.DS_Store
+*.local
+*.styl.d.ts
+yarn-error.log
+
+.vscode/*
+!.vscode/settings.json

@@ -1,0 +1,23 @@
+{
+  "extends": "./tsconfig.settings.json",
+  "compilerOptions": {
+    "types": ["vite/client"],
+    "allowJs": false,
+    "skipLibCheck": false,
+    "module": "ESNext",
+    "isolatedModules": true,
+    "baseUrl": ".",
+    "paths": {
+      "@/*": ["src/*"]
+    }
+  },
+  "include": [
+    "./packages/@yozora/*/src",
+    "./packages/@kyokuya/*/src",
+    "./plugins",
+    "./src",
+    "./script",
+    "./vite.config.ts"
+  ],
+  "exclude": ["node_modules/"]
+}

@@ -1,0 +1,40 @@
+{
+  "cSpell.words": [
+    "aplayer",
+    "blockquote",
+    "buble",
+    "clsx",
+    "conda",
+    "Cuda",
+    "cudatoolkit",
+    "cudnn",
+    "dirpath",
+    "fluentui",
+    "Gomoku",
+    "graphviz",
+    "grayscale",
+    "guanghechen",
+    "kase",
+    "kyokuya",
+    "linenos",
+    "mathjax",
+    "maxlines",
+    "middlewares",
+    "mkdirs",
+    "nowrap",
+    "nums",
+    "octotree",
+    "optimizelegibility",
+    "Parens",
+    "prismjs",
+    "Resizer",
+    "styl",
+    "vite",
+    "vitejs",
+    "Yast",
+    "yozora"
+  ],
+  "files.associations": {
+    ".prettierrc": "yaml"
+  }
+}
